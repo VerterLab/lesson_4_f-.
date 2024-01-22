@@ -1,0 +1,15 @@
+D:\geek\lesson4\homework_foo\bin\Debug\net6.0\homework_foo.exe
+D:\geek\lesson4\homework_foo\bin\Debug\net6.0\homework_foo.deps.json
+D:\geek\lesson4\homework_foo\bin\Debug\net6.0\homework_foo.runtimeconfig.json
+D:\geek\lesson4\homework_foo\bin\Debug\net6.0\homework_foo.dll
+D:\geek\lesson4\homework_foo\bin\Debug\net6.0\homework_foo.pdb
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.csproj.AssemblyReference.cache
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.GeneratedMSBuildEditorConfig.editorconfig
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.AssemblyInfoInputs.cache
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.AssemblyInfo.cs
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.csproj.CoreCompileInputs.cache
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.dll
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\refint\homework_foo.dll
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.pdb
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\homework_foo.genruntimeconfig.cache
+D:\geek\lesson4\homework_foo\obj\Debug\net6.0\ref\homework_foo.dll
